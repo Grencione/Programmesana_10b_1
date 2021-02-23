@@ -23,5 +23,5 @@ print(5+6**2)
 11 Kuzòecovs Ivans
 
 12 Ïetko Jevgçnijs
-
+print(x-2)
 13 Skuridins Artis Daniels
