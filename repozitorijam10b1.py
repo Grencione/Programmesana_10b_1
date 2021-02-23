@@ -7,7 +7,7 @@ print(5+6**2)
 3 Fedaks Alekss
 
 4 Gaile Aïona
-
+print(23-9)
 5 Gaile Anna
 
 6 Griðaèova Violeta
