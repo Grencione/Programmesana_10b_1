@@ -1,7 +1,7 @@
 Tatjana Grencione
 print(5+6**2)
 1 Akimovs Sergejs
-
+print(iq*0)
 2 Druzs Dmitrijs
 
 3 Fedaks Alekss
