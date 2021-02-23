@@ -11,7 +11,7 @@ print(5+6**2)
 5 Gaile Anna
 
 6 Griðaèova Violeta
-
+print(1+1)
 7 Jakovïevs Aleksandrs
 
 8 Jeroðèenkova Alîna
