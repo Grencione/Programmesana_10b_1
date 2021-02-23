@@ -5,7 +5,7 @@ print(5+6**2)
 2 Druzs Dmitrijs
 
 3 Fedaks Alekss
-
+print(123+123)
 4 Gaile Aïona
 
 5 Gaile Anna
