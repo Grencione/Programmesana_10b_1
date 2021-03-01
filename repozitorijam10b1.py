@@ -1,5 +1,5 @@
 Tatjana Grencione
-print(5+6**3)
+print(5+6**3+25)
 1 Akimovs Sergejs
 
 2 Druzs Dmitrijs
