@@ -15,7 +15,7 @@ print(5+6**3)
 7 Jakovïevs Aleksandrs
 
 8 Jeroðèenkova Alîna
-
+print(19+1)
 9 Kopilovs Marks
 
 10 Kostenko Karîna
